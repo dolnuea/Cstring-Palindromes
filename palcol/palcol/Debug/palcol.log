@@ -1,0 +1,4 @@
+﻿  palcol.cpp
+C:\Users\dolne\source\repos\palcol\palcol\palcol.cpp(21,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\dolne\source\repos\palcol\palcol\palcol.cpp(61): warning C4715:  'isPalindrome': not all control paths return a value
+  palcol.vcxproj -> C:\Users\dolne\source\repos\palcol\Debug\palcol.exe
